@@ -39,4 +39,4 @@ Cheatsheets and exercises using:
 
 ## 📌 Connect with Me
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
-- [TryHackMe Profile](https://tryhackme.com/p/YOUR-USERNAME)
+- [TryHackMe Profile] https://tryhackme.com/p/thompsonzach1993
